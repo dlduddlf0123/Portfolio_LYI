@@ -2,7 +2,9 @@
 
 
 
-&nbsp;VR 게임, 유튜브 시작. 엉덩이쏭, 단어카드
+* HeadersWordCard: 캐릭터를 통해 다양한 영단어를 배우는 교육용 앱
+* ARManoMotionHandTracking: 자체 제작 머신러닝으로 구현한 핸드트래킹을 Manomotion의 SDK로 교체
+* ARCeramicHeaders: Vuforia의 3D 인식 기능을 활용한 가습기에 캐릭터를 씌워 보여주는 앱
 
 
 
