@@ -1,14 +1,14 @@
 # 이영일 포트폴리오 (Game Developer)
 
-**Unity / C# 전문 | AR·VR·모바일 게임 개발자**  
+**Unity 클라이언트 개발자**  
 5년+ 실무 경험 (팀장) | Meta Quest, Apple Vision Pro, Steam 출시 실적  
 Mail: youngil128@gmail.com
 
 ## 기술 스택
-- **엔진**: Unity (주력), Unreal Engine (Timeline 애니메이션)
-- **언어**: C# (고급), C/C++, Java/Object-C (학부)
-- **특화**: AR Foundation, XR Interaction Toolkit, Oculus Integration, VisionOS, 핸드트래킹, 서버 연동
-- **툴**: Photoshop, Illustrator, 3D Max, ProBuilder
+- **엔진**: Unity (주력), Unreal Engine, Cocos2D
+- **언어**: C# (고급), C/C++, Java/Object-C
+- **플랫폼**: PC, Android, iOS, AR, VR, NR, VisionPro
+- **툴**: Git, Word, Excel, Photoshop, Illustrator, 3D Max
 
 ## 주요 프로젝트
 
