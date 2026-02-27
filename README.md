@@ -20,14 +20,10 @@ Mail: youngil128@gmail.com
 ### FingFing (2024, Meta Quest 3)
 - 역할: 개발 총괄
 - 주요 기능: 핸드트래킹 힐링 퍼즐 게임, 손가락만으로 플레이, Meta Interaction SDK 사용
-- 성과: Meta Store 판매, 수익 발생
-- 링크: [Meta Store](https://www.meta.com/experiences/6526112794179970)
+- 성과: Steam, Meta Store 판매, 수익 발생
+- Steam (https://store.steampowered.com/app/2660300/FingFing/)
+- Meta Store (https://www.meta.com/experiences/6526112794179970)
 
 ### Burbird (2022, 모바일)
 - 역할: 개발 총괄
-- 주요 기능: 2D 횡스크롤 슈팅 로그라이트, 서버 데이터 관리·멀티플레이 요소
-
-### AR Headers Flowerland (2021, 모바일 AR) 
-- 역할: 개발 총괄
-- 주요 기능: 모바일 AR 핸드트래킹 퍼즐 게임, AR Kit, CoreML, Swift 활용
-- 성과: Apple App Store 출시 완료
+- 주요 기능: 2D 횡스크롤 슈팅 로그라이트, 서버 데이터 관리
