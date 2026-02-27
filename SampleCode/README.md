@@ -1,6 +1,6 @@
 ## Portfolio Sample Code
 
-이 폴더는 다양한 프로젝트에서 선정한 대표 샘플 코드 모음입니다.
+대표 샘플 코드 모음입니다.
 
 
 ## 파일 목록 및 설명
@@ -11,7 +11,7 @@
 - Trap\_Shooting.cs: 게임 내 상호작용 오브젝트 구현
 - Constants.cs: 전역 상수 및 설정값 관리
 - BiDirectionalDictionary.cs: 커스텀 자료구조 구현
-- 
+
 ## 프로젝트 출처
 - 2024/VRFingFing
 
