@@ -2,7 +2,7 @@
 
 **Unity 클라이언트 개발자**  
 5년+ 실무 경험 (팀장) | Meta Quest, Apple Vision Pro, Steam 출시 실적  
-Mail: youngil128@gmail.com
+Mail: youngil1128@gmail.com
 
 ## 기술 스택
 - **엔진**: Unity (주력), Unreal Engine, Cocos2D
