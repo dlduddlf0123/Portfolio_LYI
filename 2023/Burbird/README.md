@@ -1,8 +1,20 @@
 # Burbird
 
-모바일 2D 횡스크롤 슈팅 로그라이트입니다. 전투와 Room 진행을 중심으로 반복 플레이, 장비, 성장, 연습 기능을 구성했습니다.
+모바일 2D 횡스크롤 슈팅 로그라이트 프로젝트입니다. 이 폴더에서는 캐릭터 전투, Room 진행, 반복 테스트를 위한 Practice Mode와 데이터 구조를 확인할 수 있습니다.
 
-## 담당 역할
+## 이 폴더에서 먼저 볼 코드
+
+| 경로 | 확인할 수 있는 구현 |
+| --- | --- |
+| [SceneGame/Room/Room.cs](SceneGame/Room/Room.cs) | Room 진입, 적 생성, 클리어 보상과 출구 개방까지의 기본 흐름 |
+| [Character/Enemy/Attack/](Character/Enemy/Attack/) | 공통 공격 클래스를 기반으로 확장한 적·보스 패턴 |
+| [SceneGame/Practice/](SceneGame/Practice/) | 실제 빌드와 에디터에서 적 패턴을 반복 검증하기 위한 연습 기능 |
+| [Character/](Character/) | 플레이어·적 캐릭터의 상태와 전투 구현 |
+| [Equipment/](Equipment/) | 장비와 속성 효과 관련 구현 |
+
+대표 코드만 빠르게 확인하려면 [Room과 원거리 공격 샘플](../../SampleCode/)을 먼저 보는 것을 권장합니다.
+
+## 프로젝트 내 담당 범위
 
 - Unity 클라이언트 개발 총괄
 - 플레이어 조작, 슈팅, 적과 보스 패턴 등 전투 시스템
@@ -10,17 +22,6 @@
 - Practice Mode와 적 패턴 테스트 도구
 - 장비·속성 효과·데이터 및 서버 연동
 
-## 코드에서 볼 수 있는 내용
+관련 기획 자료는 프로젝트 폴더에 보존되어 있습니다. 프로젝트 배경, 결과와 영상은 [Notion 포트폴리오](https://www.notion.so/Unity-5-26b8567073eb80cf9000d84b0b50f05d)에서 확인할 수 있습니다.
 
-| 경로 | 내용 |
-| --- | --- |
-| [SceneGame/Room/Room.cs](SceneGame/Room/Room.cs) | Room 진입부터 적 처치, 문 개방까지의 기본 생명주기 |
-| [SceneGame/Room/BossRoom.cs](SceneGame/Room/BossRoom.cs) | 보스 전투 규칙을 기본 Room 흐름에 확장한 구현 |
-| [Character/Enemy/Attack/](Character/Enemy/Attack/) | 공통 원거리 공격과 패턴별 파생 구현 |
-| [SceneGame/Practice/](SceneGame/Practice/) | 적과 보스 패턴을 반복 검증하기 위한 연습 기능 |
-| [정리한 Room 샘플](../../SampleCode/Gameplay/RoomLifecycle.cs) | 진행 상태와 외부 의존성을 인터페이스로 분리한 예제 |
-| [정리한 원거리 공격 샘플](../../SampleCode/Gameplay/RangedAttackPattern.cs) | 예고·발사·회수 흐름을 분리한 예제 |
-
-기획과 구현 과정은 폴더 안의 개발노트 및 기획 자료에 보존했습니다. 전체 프로젝트 설명과 영상은 [Notion 포트폴리오](https://www.notion.so/Unity-5-26b8567073eb80cf9000d84b0b50f05d)에서 볼 수 있습니다.
-
-> 이 폴더는 공개 가능한 스크립트와 개발 자료를 보존한 코드 아카이브이며, 단독으로 실행 가능한 전체 Unity 프로젝트는 아닙니다.
+> 코드와 개발 자료를 선별한 아카이브이므로 이 폴더만으로는 전체 Unity 프로젝트를 실행할 수 없습니다.
