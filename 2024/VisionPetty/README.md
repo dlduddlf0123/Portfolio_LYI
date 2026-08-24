@@ -18,8 +18,7 @@ Apple Vision Pro에서 실제 공간에 캐릭터를 배치하고 손으로 교�
 | [Character/CharacterPetting.cs](Character/CharacterPetting.cs) | 접촉 위치에 따라 캐릭터 Bone을 변형하는 쓰다듬기 구현 |
 | [VisionOS/](VisionOS/) | 공간 메시와 visionOS 전용 기능 연동 |
 | [RaceContent/](RaceContent/) | 공간형 펫 게임 안에서 동작하는 미니게임 흐름 |
-| [정리한 쓰다듬기 샘플](../../SampleCode/XR/CharacterPetting.cs) | 프로젝트 의존성을 줄이고 변형 알고리즘을 분리한 예제 |
 
-개발 과정은 [DEVLOG.md](DEVLOG.md)에 원문 그대로 보존했습니다. 전체 프로젝트 설명과 영상은 [Notion 포트폴리오](https://www.notion.so/Unity-5-26b8567073eb80cf9000d84b0b50f05d)에서 볼 수 있습니다.
+전체 프로젝트 설명과 개발 과정, 영상은 [Notion 포트폴리오](https://www.notion.so/Unity-5-26b8567073eb80cf9000d84b0b50f05d)에서 볼 수 있습니다.
 
-> 이 폴더는 공개 가능한 스크립트와 개발 자료를 보존한 코드 아카이브이며, 단독으로 실행 가능한 전체 Unity 프로젝트는 아닙니다.
+> 이 폴더는 포트폴리오 검토를 위해 선별한 코드 아카이브이며, 단독으로 실행 가능한 전체 Unity 프로젝트는 아닙니다.
